@@ -1,0 +1,39 @@
+_repo: The-Australian-Army-Medical-Corps-in-EgyptEgypt-in-1914-1915_41911
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41911-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Barrett, James W. (James William), Sir
+    alias: Barrett, James William, Sir
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '41422'
+    url: http://www.gutenberg.org/2009/agents/41422
+  - agent_name: Deane, P. E. (Percival Edgar)
+    aliases:
+    - Deane, Percival Edgar
+    - Deane, Percy
+    birthdate: 1890
+    deathdate: 1946
+    gutenberg_agent_id: '41423'
+    url: http://www.gutenberg.org/2009/agents/41423
+description: ''
+gutenberg_issued: '2013-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Egypt'
+- !lcsh 'Australia. Australian Army. Medical Corps'
+- !lcc 'D501'
+- !lcsh 'Medicine, Military -- History'
+title: "The Australian Army Medical Corps in Egypt\r\nAn Illustrated and Detailed\
+  \ Account of the Early Organisation and Work of the Australian Medical Units in\
+  \ Egypt in 1914-1915"
+url: http://www.gutenberg.org/ebooks/41911
